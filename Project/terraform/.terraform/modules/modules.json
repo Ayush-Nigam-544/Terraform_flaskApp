@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb","Source":"./alb.tf","Dir":"alb.tf"},{"Key":"ec2","Source":"./ec2.tf","Dir":"ec2.tf"},{"Key":"rds","Source":"./rds.tf","Dir":"rds.tf"},{"Key":"security_groups","Source":"./security_groups.tf","Dir":"security_groups.tf"},{"Key":"vpc","Source":"./vpc.tf","Dir":"vpc.tf"}]}
